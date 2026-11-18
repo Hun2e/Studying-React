@@ -1,31 +1,26 @@
-# 🚀 React Study Log
+# Studying-React
 
-> **Learning and practicing the fundamentals of React.js**
+> React 핵심 개념을 강의 실습 코드로 익힌 학습 기록
 
-리액트의 핵심 개념을 학습하고, 실제 코드로 구현하며 익히는 과정을 기록하기 위한 공간
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## 📅 Study Period
-- **Start Date:** 2025.12.02
-- **Status:** In Progress (60%)
+<sub>2025.12 ~ · 인프런 「한 입 크기로 잘라먹는 리액트」 실습</sub>
 
-## 🛠 Tech Stack
-- **Language:** JavaScript
-- **Library:** React.js
-- **Styling:** CSS
-- **Tools:** Git, GitHub, VS Code
+## 구성
 
-## ✍️ Key Learning Points
+| 폴더 | 내용 |
+|---|---|
+| `section01` · `section02` | JavaScript 기본 문법과 심화 (비동기, 구조 분해 등) |
+| `section03` | Node.js 모듈과 npm 패키지 사용 |
+| `section04` | Vite로 React 프로젝트 시작 |
+| `section05` | 컴포넌트, props, 이벤트, `useState`·`useRef`, 커스텀 Hook(`useInput`) |
+| `section06` · `section07` | 카운터 앱으로 상태 끌어올리기 (Controller → Viewer) |
 
-- **Component Architecture:** 컴포넌트 기반 설계 및 재사용성 강화
-- **State & Props:** `useState`를 활용한 상태 관리와 부모-자식 컴포넌트 간 데이터 전달
-- **Hooks:** `useEffect`, `useRef`, `useMemo` 등 주요 Hook의 활용 및 최적화
+## 배운 점
 
----
-## 🎓 Credits & References
-This project was created as part of my learning journey using the following resources:
+- 컴포넌트를 작게 나누고 props로 데이터를 내려 주는 구조
+- `useState`·`useRef`와 커스텀 Hook으로 상태와 입력을 다루는 방법
 
-* **Course:** [한 입 크기로 잘라먹는 리액트(React.js)](https://inf.run/UYZ29)
-* **Instructor:** [Winterlood (이정환)](https://github.com/winterlood)
-* **Platform:** [Inflearn](https://www.inflearn.com/)
+## 참고
 
----
+- 강의: [한 입 크기로 잘라먹는 리액트(React.js)](https://inf.run/UYZ29) · 강사 [이정환](https://github.com/winterlood)
